@@ -36,8 +36,7 @@ Tenho alguns objetivos que gostaria de alcançar à medida que continuo meu dese
 
 ## Entre em Contato
 
-Vou adorar receber seu feedback e dicas para o meu crescimento. Siga-me nas redes abaixo: 
-[![Feedback](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geovane-de-lima-duarte/) [![Feedback](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/geo.liima_/)
+Vou adorar receber seu feedback e dicas para o meu crescimento. Siga-me nas redes abaixo: [![Feedback](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geovane-de-lima-duarte/) [![Feedback](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/geo.liima_/)
 
 Vamos aprender e crescer juntos! 🚀
 
