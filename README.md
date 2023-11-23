@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Meu nome é Geovane e estou entusiasmado em aprender e crescer no mundo da tecnologia. Atualmente, sou acadêmico nos cursos de Engenharia de Computação e tenho formação técnica em Redes de Computadores (IFPA) e Desenvolvimento de Sistemas (IFSuldeMinas).
+Meu nome é Geovane e estou entusiasmado em aprender e crescer no mundo da tecnologia. Atualmente, sou acadêmico nos cursos de Engenharia de Computação (UFPA) e tenho formação técnica em Redes de Computadores (IFPA) e Desenvolvimento de Sistemas (IFSuldeMinas).
 
 - 🌱 Atualmente, estou aprendendo Java, Python e Kotlin.
 - 👯 Estou aberto a colaborações e conselhos de desenvolvedores mais experientes.
